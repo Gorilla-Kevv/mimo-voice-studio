@@ -8,4 +8,4 @@
 - API Key 仅保存在访问者浏览器 localStorage，不上传任何服务器
 - 三种模式：`mimo-v2.5-tts` / `mimo-v2.5-tts-voicedesign` / `mimo-v2.5-tts-voiceclone`
 
-构建时间：2026-09-22T10:45:27.596Z
+站点地址：https://gorilla-kevv.github.io/mimo-voice-studio/
